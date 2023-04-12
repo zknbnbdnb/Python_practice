@@ -17,6 +17,8 @@ for age in ages:
     else:
         print(f'这个不行{age}')
 
+
+
 if 19 in ages:
     print('yes')
 if 22 not in ages:
